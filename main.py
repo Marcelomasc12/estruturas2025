@@ -130,7 +130,7 @@ class BrowserHistory:
         return history
 
 
-# Exemplo de uso
+
 browser = BrowserHistory()
 
 browser.navigate_to("www.google.com")
